@@ -1,0 +1,221 @@
+{
+  "year": 2025,
+  "months": [
+    {
+      "month": "Jan",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 34800 },
+        { "sku": "BR-1187", "amount": 31550 },
+        { "sku": "BR-1264", "amount": 28700 },
+        { "sku": "BR-1321", "amount": 26300 },
+        { "sku": "BR-1419", "amount": 24900 },
+        { "sku": "BR-1536", "amount": 22100 },
+        { "sku": "BR-1672", "amount": 19800 },
+        { "sku": "BR-1728", "amount": 18100 },
+        { "sku": "BR-1854", "amount": 15600 },
+        { "sku": "BR-1931", "amount": 13200 }
+      ],
+      "seasonalSales": 245600,
+      "promoLift": 8.6,
+      "inventoryTurn": 2.4
+    },
+    {
+      "month": "Feb",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 35600 },
+        { "sku": "BR-1187", "amount": 32200 },
+        { "sku": "BR-1264", "amount": 29450 },
+        { "sku": "BR-1321", "amount": 27100 },
+        { "sku": "BR-1419", "amount": 25200 },
+        { "sku": "BR-1536", "amount": 22900 },
+        { "sku": "BR-1672", "amount": 20400 },
+        { "sku": "BR-1728", "amount": 18550 },
+        { "sku": "BR-1854", "amount": 16300 },
+        { "sku": "BR-1931", "amount": 14000 }
+      ],
+      "seasonalSales": 251900,
+      "promoLift": 9.1,
+      "inventoryTurn": 2.5
+    },
+    {
+      "month": "Mar",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 37500 },
+        { "sku": "BR-1187", "amount": 33800 },
+        { "sku": "BR-1264", "amount": 30600 },
+        { "sku": "BR-1321", "amount": 28200 },
+        { "sku": "BR-1419", "amount": 26400 },
+        { "sku": "BR-1536", "amount": 23800 },
+        { "sku": "BR-1672", "amount": 21400 },
+        { "sku": "BR-1728", "amount": 19400 },
+        { "sku": "BR-1854", "amount": 16900 },
+        { "sku": "BR-1931", "amount": 14500 }
+      ],
+      "seasonalSales": 264700,
+      "promoLift": 10.4,
+      "inventoryTurn": 2.7
+    },
+    {
+      "month": "Apr",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 38900 },
+        { "sku": "BR-1187", "amount": 35100 },
+        { "sku": "BR-1264", "amount": 31800 },
+        { "sku": "BR-1321", "amount": 29400 },
+        { "sku": "BR-1419", "amount": 27700 },
+        { "sku": "BR-1536", "amount": 24700 },
+        { "sku": "BR-1672", "amount": 22200 },
+        { "sku": "BR-1728", "amount": 20100 },
+        { "sku": "BR-1854", "amount": 17700 },
+        { "sku": "BR-1931", "amount": 15100 }
+      ],
+      "seasonalSales": 275900,
+      "promoLift": 11.2,
+      "inventoryTurn": 2.9
+    },
+    {
+      "month": "May",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 38200 },
+        { "sku": "BR-1187", "amount": 34600 },
+        { "sku": "BR-1264", "amount": 31400 },
+        { "sku": "BR-1321", "amount": 28900 },
+        { "sku": "BR-1419", "amount": 27200 },
+        { "sku": "BR-1536", "amount": 24300 },
+        { "sku": "BR-1672", "amount": 21900 },
+        { "sku": "BR-1728", "amount": 19700 },
+        { "sku": "BR-1854", "amount": 17300 },
+        { "sku": "BR-1931", "amount": 14800 }
+      ],
+      "seasonalSales": 271400,
+      "promoLift": 10.8,
+      "inventoryTurn": 2.8
+    },
+    {
+      "month": "Jun",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 36900 },
+        { "sku": "BR-1187", "amount": 33500 },
+        { "sku": "BR-1264", "amount": 30500 },
+        { "sku": "BR-1321", "amount": 28100 },
+        { "sku": "BR-1419", "amount": 26600 },
+        { "sku": "BR-1536", "amount": 23700 },
+        { "sku": "BR-1672", "amount": 21300 },
+        { "sku": "BR-1728", "amount": 19200 },
+        { "sku": "BR-1854", "amount": 16800 },
+        { "sku": "BR-1931", "amount": 14300 }
+      ],
+      "seasonalSales": 263800,
+      "promoLift": 10.1,
+      "inventoryTurn": 2.7
+    },
+    {
+      "month": "Jul",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 36100 },
+        { "sku": "BR-1187", "amount": 32800 },
+        { "sku": "BR-1264", "amount": 29800 },
+        { "sku": "BR-1321", "amount": 27500 },
+        { "sku": "BR-1419", "amount": 26000 },
+        { "sku": "BR-1536", "amount": 23100 },
+        { "sku": "BR-1672", "amount": 20700 },
+        { "sku": "BR-1728", "amount": 18800 },
+        { "sku": "BR-1854", "amount": 16400 },
+        { "sku": "BR-1931", "amount": 13900 }
+      ],
+      "seasonalSales": 258200,
+      "promoLift": 9.7,
+      "inventoryTurn": 2.6
+    },
+    {
+      "month": "Aug",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 37400 },
+        { "sku": "BR-1187", "amount": 34100 },
+        { "sku": "BR-1264", "amount": 30900 },
+        { "sku": "BR-1321", "amount": 28600 },
+        { "sku": "BR-1419", "amount": 27000 },
+        { "sku": "BR-1536", "amount": 24000 },
+        { "sku": "BR-1672", "amount": 21600 },
+        { "sku": "BR-1728", "amount": 19500 },
+        { "sku": "BR-1854", "amount": 17100 },
+        { "sku": "BR-1931", "amount": 14600 }
+      ],
+      "seasonalSales": 269100,
+      "promoLift": 10.6,
+      "inventoryTurn": 2.8
+    },
+    {
+      "month": "Sep",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 39700 },
+        { "sku": "BR-1187", "amount": 35900 },
+        { "sku": "BR-1264", "amount": 32300 },
+        { "sku": "BR-1321", "amount": 29900 },
+        { "sku": "BR-1419", "amount": 28100 },
+        { "sku": "BR-1536", "amount": 25100 },
+        { "sku": "BR-1672", "amount": 22600 },
+        { "sku": "BR-1728", "amount": 20400 },
+        { "sku": "BR-1854", "amount": 17900 },
+        { "sku": "BR-1931", "amount": 15300 }
+      ],
+      "seasonalSales": 279600,
+      "promoLift": 11.8,
+      "inventoryTurn": 3.0
+    },
+    {
+      "month": "Oct",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 38600 },
+        { "sku": "BR-1187", "amount": 34900 },
+        { "sku": "BR-1264", "amount": 31600 },
+        { "sku": "BR-1321", "amount": 29200 },
+        { "sku": "BR-1419", "amount": 27500 },
+        { "sku": "BR-1536", "amount": 24500 },
+        { "sku": "BR-1672", "amount": 22100 },
+        { "sku": "BR-1728", "amount": 20000 },
+        { "sku": "BR-1854", "amount": 17500 },
+        { "sku": "BR-1931", "amount": 15000 }
+      ],
+      "seasonalSales": 271800,
+      "promoLift": 11.1,
+      "inventoryTurn": 2.9
+    },
+    {
+      "month": "Nov",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 35400 },
+        { "sku": "BR-1187", "amount": 32100 },
+        { "sku": "BR-1264", "amount": 29100 },
+        { "sku": "BR-1321", "amount": 26800 },
+        { "sku": "BR-1419", "amount": 25300 },
+        { "sku": "BR-1536", "amount": 22500 },
+        { "sku": "BR-1672", "amount": 20100 },
+        { "sku": "BR-1728", "amount": 18300 },
+        { "sku": "BR-1854", "amount": 15900 },
+        { "sku": "BR-1931", "amount": 13600 }
+      ],
+      "seasonalSales": 249700,
+      "promoLift": 9.4,
+      "inventoryTurn": 2.5
+    },
+    {
+      "month": "Dec",
+      "salesBySku": [
+        { "sku": "BR-1042", "amount": 36700 },
+        { "sku": "BR-1187", "amount": 33300 },
+        { "sku": "BR-1264", "amount": 30200 },
+        { "sku": "BR-1321", "amount": 27900 },
+        { "sku": "BR-1419", "amount": 26400 },
+        { "sku": "BR-1536", "amount": 23400 },
+        { "sku": "BR-1672", "amount": 21000 },
+        { "sku": "BR-1728", "amount": 19000 },
+        { "sku": "BR-1854", "amount": 16600 },
+        { "sku": "BR-1931", "amount": 14200 }
+      ],
+      "seasonalSales": 260900,
+      "promoLift": 10.2,
+      "inventoryTurn": 2.7
+    }
+  ]
+}
