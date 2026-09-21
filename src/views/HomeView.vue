@@ -10,15 +10,15 @@ const selectedMonth = ref('All')
 const monthOptions = ['All', ...metrics.months.map((month) => month.month)]
 const catalog = [
   ['BR-1042', 'The Celeste', 'A-line', 'Silk mikado', 2890, 'https://images.unsplash.com/photo-1594552072238-b8a33785b261?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1187', 'The Margot', 'Ballgown', 'Italian satin', 3250, 'https://images.unsplash.com/photo-1519657337289-077653f724ed?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1264', 'The Josephine', 'Mermaid', 'French lace', 2780, 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1321', 'The Beatrice', 'Trumpet', 'Crepe charmeuse', 2640, 'https://images.unsplash.com/photo-1544078751-58fee2d8a03b?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1419', 'The Florence', 'A-line', 'Tulle & lace', 2410, 'https://images.unsplash.com/photo-1529634597503-139d3726fed5?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1536', 'The Elodie', 'Sheath', 'Matte crepe', 2260, 'https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1672', 'The Louise', 'Ballgown', 'Organza', 2180, 'https://images.unsplash.com/photo-1557800636-894a64c1696f?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1728', 'The Clara', 'Mermaid', 'Chantilly lace', 2050, 'https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1854', 'The Iris', 'Trumpet', 'Chiffon', 1890, 'https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=240&q=80'],
-  ['BR-1931', 'The Marguerite', 'Sheath', 'Duchess satin', 1750, 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1187', 'The Margot', 'Ballgown', 'Italian satin', 3250, 'https://images.unsplash.com/photo-1622277430358-f4d134452e2e?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1264', 'The Josephine', 'Mermaid', 'French lace', 2780, 'https://images.unsplash.com/photo-1549417229-7686ac5595fd?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1321', 'The Beatrice', 'Trumpet', 'Crepe charmeuse', 2640, 'https://images.unsplash.com/photo-1532454781337-fc3edff34f91?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1419', 'The Florence', 'A-line', 'Tulle & lace', 2410, 'https://images.unsplash.com/photo-1591604466107-ec97de577aff?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1536', 'The Elodie', 'Sheath', 'Matte crepe', 2260, 'https://images.unsplash.com/photo-1511288702291-e55d6cfbe3b5?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1672', 'The Louise', 'Ballgown', 'Organza', 2180, 'https://images.unsplash.com/photo-1549416878-b9ca95e26903?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1728', 'The Clara', 'Mermaid', 'Chantilly lace', 2050, 'https://images.unsplash.com/photo-1631234764568-996fab371596?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1854', 'The Iris', 'Trumpet', 'Chiffon', 1890, 'https://images.unsplash.com/photo-1617724975854-70b5d0cedb0a?auto=format&fit=crop&w=240&q=80'],
+  ['BR-1931', 'The Marguerite', 'Sheath', 'Duchess satin', 1750, 'https://images.unsplash.com/photo-1529636273736-fc88b31ea9d9?auto=format&fit=crop&w=240&q=80'],
 ]
 const activeMonths = computed(() => selectedMonth.value === 'All' ? metrics.months : metrics.months.filter((month) => month.month === selectedMonth.value))
 const index = computed(() => selectedMonth.value === 'All' ? 11 : metrics.months.findIndex((month) => month.month === selectedMonth.value))
